@@ -6,7 +6,6 @@ mythic-goldpanning made by me!!
         {
                 name = "goldpan",
                 label = "Gold Pan",
-                description = "A shallow pan for sifting river sediment.",
                 price = 250,
                 isUsable = true,
                 isRemoved = false,
